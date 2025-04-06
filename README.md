@@ -32,21 +32,29 @@ group 1.2
 
 ==> gameobject collider 1 
 ==> gameobject collider 2 
+
 ==> gameobject collider 3 
+
 
 Group 2 
 
 group 2.1 
 
 ==> gameobject collider 1 
+
 ==> gameobject collider 2 
+
 ==> gameobject collider 3 
+
 
 group 2.2 
 
 ==> gameobject collider 1 
+
 ==> gameobject collider 2 
+
 ==> gameobject collider 3 
+
 
 .....
 
