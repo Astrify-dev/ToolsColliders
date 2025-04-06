@@ -19,24 +19,33 @@ This script must be attached to a GameObject and placed within a hierarchy of Ga
 ----------------------------------------------------------------
 
 Group 1 
+
  group 1.1 
-     	==> gameobject collider 1 
-     	==> gameobject collider 2 
-     	==> gameobject collider 3 
-     group 1.2 
-     	==> gameobject collider 1 
-     	==> gameobject collider 2 
-     	==> gameobject collider 3 
+ 
+==> gameobject collider 1 
+==> gameobject collider 2 
+==> gameobject collider 3 
+      
+group 1.2 
+
+==> gameobject collider 1 
+==> gameobject collider 2 
+==> gameobject collider 3 
+
 Group 2 
-     group 2.1 
-     	==> gameobject collider 1 
-     	==> gameobject collider 2 
-     	==> gameobject collider 3 
-     group 2.2 
-     	==> gameobject collider 1 
-     	==> gameobject collider 2 
-     	==> gameobject collider 3 
-    ...
+
+group 2.1 
+
+==> gameobject collider 1 
+==> gameobject collider 2 
+==> gameobject collider 3 
+
+group 2.2 
+
+==> gameobject collider 1 
+==> gameobject collider 2 
+==> gameobject collider 3 
+
 .....
 
 ----------------------------------------------------------------
