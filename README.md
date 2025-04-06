@@ -23,7 +23,9 @@ Group 1
  group 1.1 
  
 ==> gameobject collider 1 
+
 ==> gameobject collider 2 
+
 ==> gameobject collider 3 
       
 group 1.2 
