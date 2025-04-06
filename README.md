@@ -63,6 +63,7 @@ group 2.2
 
 
 Sinon, le script ne fonctionnera pas correctement.
+
 Otherwise, the script will not function correctly.
 
 ## Utilisation
