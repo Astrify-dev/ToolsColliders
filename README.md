@@ -31,6 +31,7 @@ Group 1
 group 1.2 
 
 ==> gameobject collider 1 
+
 ==> gameobject collider 2 
 
 ==> gameobject collider 3 
