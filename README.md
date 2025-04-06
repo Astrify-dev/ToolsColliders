@@ -17,20 +17,17 @@ Ce script doit être attaché à un GameObject et doit être placé dans une hi�
 This script must be attached to a GameObject and placed within a hierarchy of GameObjects as follows:
 
 ----------------------------------------------------------------
-Group 1 
 
-     group 1.1 
-     
+Group 1 
+ group 1.1 
      	==> gameobject collider 1 
      	==> gameobject collider 2 
      	==> gameobject collider 3 
-      
      group 1.2 
      	==> gameobject collider 1 
      	==> gameobject collider 2 
      	==> gameobject collider 3 
-   ... 
--- Group 2 
+Group 2 
      group 2.1 
      	==> gameobject collider 1 
      	==> gameobject collider 2 
@@ -41,6 +38,7 @@ Group 1
      	==> gameobject collider 3 
     ...
 .....
+
 ----------------------------------------------------------------
 
 
